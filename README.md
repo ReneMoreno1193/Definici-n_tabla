@@ -1,3 +1,10 @@
+Integrantes:
+
+René Moreno
+Carolina Lagos
+Batian Rojas
+
+
 Paso 1: Crear base de datos y tablas
 
 ![image](https://github.com/ReneMoreno1193/Definicion_tabla/assets/149860694/08a8b521-352e-4316-842a-2646aaca6f76)
