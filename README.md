@@ -1,8 +1,8 @@
 Integrantes:
 
-René Moreno
-Carolina Lagos
-Batian Rojas
+René Moreno, 
+Carolina Lagos, 
+Bastián Rojas.
 
 
 Paso 1: Crear base de datos y tablas
